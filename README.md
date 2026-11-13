@@ -1,15 +1,14 @@
 # Hi, I'm Michael 👋😃
-**CS Student at UIC | Software Engineering | Finance Minor | Powerlifting Club President**
+**CS Student at UIC | Software and Data Engineering | Powerlifting Club President | Vietnamese Student Association Vice President**
 
-I build full-stack apps and data pipelines. This summer I interned at Thrivent, where I helped win the company hackathon and built the data tables that let the company retire a legacy client platform.
+I build full-stack apps and data pipelines. This summer I interned at Thrivent, where I helped win the company hackathon and built the data tables that supported decommissioning a legacy client platform.
 
 ## About me
 - 🎓 Computer Science at UIC (Software Engineering concentration, Finance minor), Class of 2027
 - ☁️ AWS Certified Cloud Practitioner
-- 🔭 Building KiloPlan, a training and nutrition app
-- 🌱 Learning: add what you're learning now
+- 🔭 Building [KiloPlan](https://github.com/thebestmichael/KiloPlan), a training and nutrition app
+- 🌱 Learning: building full-stack apps and data pipelines end to end, from React and FastAPI to Snowflake and dbt
 - 🤝 Outside of code: President of the UIC Powerlifting Club (grew it from 20 to 50+ members) and Vice President of the Vietnamese Student Association
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/michael-nguyen-uic)
 
 ## Tech stack
 
@@ -50,10 +49,6 @@ I build full-stack apps and data pipelines. This summer I interned at Thrivent, 
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-Scrum-blue)
 
-## GitHub stats
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebestmichael&layout=compact)
-
 ## Find me around the web 🌎
 - 💼 [LinkedIn](https://linkedin.com/in/michael-nguyen-uic)
 - 📧 [nguyenmichael4105@gmail.com](mailto:nguyenmichael4105@gmail.com)
-- 💻 [GitHub](https://github.com/thebestmichael)
