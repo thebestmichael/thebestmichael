@@ -55,5 +55,7 @@ I build full-stack apps and data pipelines. This summer I interned at Thrivent, 
 ## GitHub stats
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thebestmichael&layout=compact)
 
-## Connect
-[LinkedIn](https://linkedin.com/in/michael-nguyen-uic)
+## Find me around the web 🌎
+- 💼 [LinkedIn](https://linkedin.com/in/michael-nguyen-uic)
+- 📧 [nguyenmichael4105@gmail.com](mailto:nguyenmichael4105@gmail.com)
+- 💻 [GitHub](https://github.com/thebestmichael)
