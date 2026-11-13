@@ -1,6 +1,4 @@
-![Banner](banner.png)
-
-# Hi, I'm Michael 👋
+# Hi, I'm Michael 👋😃
 **CS Student at UIC | Software Engineering | Finance Minor | Powerlifting Club President**
 
 I build full-stack apps and data pipelines. This summer I interned at Thrivent, where I helped win the company hackathon and built the data tables that let the company retire a legacy client platform.
