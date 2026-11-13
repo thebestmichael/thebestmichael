@@ -1,5 +1,5 @@
 # Hi, I'm Michael 👋😃
-**CS Student at UIC | Software and Data Engineering | Powerlifting Club President | Vietnamese Student Association Vice President**
+**CS Student at UIC | Software and Data Engineering | Powerlifting Club President**
 
 I'm passionate about building full-stack apps and data pipelines. Last summer I interned at Thrivent, where I helped win the company-wide hackathon and built the data tables that supported decommissioning a legacy client platform.
 
